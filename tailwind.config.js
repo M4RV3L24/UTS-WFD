@@ -13,8 +13,8 @@ export default {
     require('flowbite/plugin')({
       datatables: true,
     }),
-    require('@tailwindcss/forms'),
-    require('@tailwindcss/typography'),
+    // require('@tailwindcss/forms'),
+    // require('@tailwindcss/typography'),
 
   ],
 }
